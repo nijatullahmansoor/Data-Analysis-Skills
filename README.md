@@ -1,3 +1,3 @@
 # Data-Analysis-Skills
 
-1. WebScraping
+1. Web Scraping
