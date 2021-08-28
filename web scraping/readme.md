@@ -11,7 +11,8 @@ In this directory you can find web scraper which I have used `Selenium` and `Bea
 - Nukari.com --> Jobs data
 - Walmart.com product reivew. 
 - Normal website data for example wikipedia 
-- 
+
 and many more. 
 
-Mansoor Nijatullah
+Mansoor Nijatullah 
+
